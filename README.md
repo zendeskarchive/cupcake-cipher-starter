@@ -20,7 +20,9 @@ CupcakeEradicator will be posting (to your feed consumer service) various cupcak
 If you wish you may reuse our simple Dropwizard skeleton from JDD for quicker start:
 [https://github.com/basecrm/jdd-base](https://github.com/basecrm/jdd-base)
 
-Details regarding the API can be found at: http://to-be-announced:8080/assets/swagger/.
-Use the registration service (http://to-be-announced:8080/assets/swagger/#!/registration/register) to register your two endpoints with CupcakeEradicator. Provide unique (but recognizable) name of your team.
+Details regarding the API can be found at: http://10.12.216.192:8080/assets/swagger/.
+Use the registration service (http://10.12.216.192:8080/assets/swagger/#!/registration/register) to register your two endpoints with CupcakeEradicator. Provide unique (but recognizable) name of your team.
+
+IP: 10.12.216.192
 
 Good luck!
