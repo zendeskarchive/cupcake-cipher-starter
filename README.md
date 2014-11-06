@@ -7,6 +7,8 @@ Hostile spy networking is leveraging popular cooking websites and magazines to c
 
 What we know about the cipher so far is that it is probably simple substitution cipher that should be prone to frequency analysis attack. If you are not familiar with the concept take a look at:
 [http://en.wikipedia.org/wiki/Letter_frequency](http://en.wikipedia.org/wiki/Letter_frequency)
+
+
 [http://en.wikipedia.org/wiki/Frequency_analysis](http://en.wikipedia.org/wiki/Frequency_analysis)
 
 Separate department is working on intercepting suspicious recipes. In the world of everything as a service the departament has managed to successfully build a MITMAAS (Man in the middle as a service) system codenamed CupcakeEradicator. 
@@ -18,6 +20,7 @@ Your task is to build two services:
 CupcakeEradicator will be posting (to your feed consumer service) various cupcake recipes throughout the hackathon. Make sure you establish your receiving service application as soon as possible to be able to gather as much data as possible, as soon as possible.
 
 If you wish you may reuse our simple Dropwizard skeleton from JDD for quicker start:
+
 [https://github.com/basecrm/jdd-base](https://github.com/basecrm/jdd-base)
 
 Details regarding the API can be found at: http://to-be-announced:8080/assets/swagger/.
